@@ -25,7 +25,7 @@
                     <div class="logo"><img src="./assets/img/logo.png" width="38px" height="28px"></div>
 					<div class="tire2"></div>
 
-                        <button>LOGIN</button>
+                        <button>SIGN IN</button>
 
 				</div>
 </form>
