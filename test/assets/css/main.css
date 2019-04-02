@@ -1,0 +1,77 @@
+.box{
+    width: 920px;
+    height: 420px;
+    background-color: rgba(15, 26, 47, 0.9);
+	border-radius: 5px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.main{
+    background-color: #ffffff;
+    box-shadow: 0px 0px 140px 0px rgba(50, 66, 91, 0.3);
+    width: 460px;
+    height: 460px;
+	position: absolute;
+	top: 50%;
+	left: 72%;
+	transform: translate(-50%,-50%);
+	z-index: 99;
+}
+
+.login_msg, .signup_msg{
+    font-family: 'Source Sans Pro';
+    color:#ffffff;
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: 0.56px;
+    line-height: 35px;
+    text-align: left;   
+}
+
+.login_msg{
+    transform: translate(592px, -130px);
+}
+.signup_msg{
+    transform: translate(80px, 70px);
+}
+
+.text, .text2{
+    font-family: 'Source Sans Pro';
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.32px;
+    line-height: 30px;
+    text-align: left;
+}
+
+.text{
+    width: 275px;
+    height: 194px;
+    transform: translate(80px, 105px);
+}
+.text2{
+    width: 300px;
+    transform: translate(592px, -95px);
+}
+
+.tire, .tire2, .tire3{
+    background-color: #49abfe;
+    width: 40px;
+    height: 2px;
+}
+
+.tire{
+    transform: translate(0, -10px);
+}
+
+.tire2{
+    transform: translate(0, -20px);
+}
+
+.tire3{
+    transform: translate(0, -5px);
+}

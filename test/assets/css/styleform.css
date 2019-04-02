@@ -1,0 +1,53 @@
+.loginform{
+        transform: translate(92px,84px);
+
+}
+.signupform{
+transform: translate(92px,-154px);
+    visibility: hidden;
+
+}
+
+
+.loginform h1,.signupform h1{
+    font-family: 'Source Sans Pro';
+    color: #3e495e;
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: 0.56px;
+}
+
+
+
+
+.loginform input,.signupform input{
+width: 250px;
+height: 35px;
+    border: 2px solid white;
+    border-bottom: 1px solid black;
+
+font-family: 'Source Sans Pro';
+color:black;
+font-size: 16px;
+font-weight: 400;
+letter-spacing: 0.32px;
+line-height: 45px;
+text-align: left;
+
+}
+#loginform input::placeholder, #signupform input::placeholder{
+
+
+    font-family: 'Source Sans Pro';
+    color:#8495b7;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.32px;
+    line-height: 45px;
+    text-align: left;
+}
+
+
+.logo{
+      transform: translate(242px,-53px);
+}
