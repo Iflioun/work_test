@@ -21,7 +21,7 @@
 
 <form action="login.php" method="post">
 				<div id="loginform" class="loginform">
-					<h1>Login</h1>
+					<h1>Sign In</h1>
                     <div class="logo"><img src="./assets/img/logo.png" width="38px" height="28px"></div>
 					<div class="tire2"></div>
 
